@@ -1,5 +1,4 @@
 
-(此文本不要push至远程仓）
 1. 本地在pics文件夹（已与Kimwangqing关联)
 2. git add . 
    git commit -m 
